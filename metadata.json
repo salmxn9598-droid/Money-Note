@@ -1,0 +1,7 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "Track expenses locally with charts, budget, and categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
